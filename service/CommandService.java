@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.tbk.tbk.tbk;
+package com.tbk.tbk.tbk.service;
 
 /**
  * This interface represents the commands of the CQRS pattern.

@@ -22,7 +22,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.tbk.tbk.tbk;
+package com.tbk.tbk.tbk.service;
 
 import com.tbk.tbk.tbk.tbk.Author;
 import com.tbk.tbk.tbk.tbk.Book;
